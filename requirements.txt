@@ -6,5 +6,4 @@ pyttsx3
 googletrans
 langchain_community
 loader
-gtts
 tempfile
