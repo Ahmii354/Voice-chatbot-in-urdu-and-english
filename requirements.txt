@@ -1,6 +1,5 @@
 streamlit
 argparse
-time
 pyaudio
 wave
 pyttsx3
@@ -11,6 +10,5 @@ langchain.prompts
 langchain_community.llms.ollama
 loader
 gtts
-os
 tempfile
 playsound
