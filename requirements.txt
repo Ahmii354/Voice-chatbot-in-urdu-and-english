@@ -4,8 +4,6 @@ pyaudio
 wave
 pyttsx3
 googletrans
-langchain==0.1.9
-langchain.prompts
 langchain_community
 loader
 gtts
