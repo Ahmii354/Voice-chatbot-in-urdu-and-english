@@ -5,6 +5,5 @@ wave
 pyttsx3
 googletrans
 langchain_community
-loader
 tempfile
 gTTS
