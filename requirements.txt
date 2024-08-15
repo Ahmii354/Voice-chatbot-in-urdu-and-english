@@ -1,5 +1,3 @@
---upgrade pip
-playsound
 streamlit
 argparse
 pyaudio
