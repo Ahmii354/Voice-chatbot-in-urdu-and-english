@@ -4,9 +4,9 @@ pyaudio
 wave
 pyttsx3
 googletrans
-langchain.vectorstores.chroma
+langchain
 langchain.prompts
-langchain_community.llms.ollama
+langchain_community
 loader
 gtts
 tempfile
