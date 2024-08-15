@@ -7,3 +7,4 @@ googletrans
 langchain_community
 loader
 tempfile
+gTTS
