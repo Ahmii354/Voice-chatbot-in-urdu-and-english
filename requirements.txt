@@ -3,7 +3,6 @@ argparse
 pyaudio
 wave
 pyttsx3
-speech_recognition
 googletrans
 langchain.vectorstores.chroma
 langchain.prompts
