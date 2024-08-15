@@ -4,6 +4,6 @@ pyaudio
 wave
 pyttsx3
 googletrans
-langchain_community
+Ollama
 tempfile
 gTTS
