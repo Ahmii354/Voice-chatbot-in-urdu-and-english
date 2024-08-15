@@ -11,4 +11,3 @@ langchain_community.llms.ollama
 loader
 gtts
 tempfile
-playsound
