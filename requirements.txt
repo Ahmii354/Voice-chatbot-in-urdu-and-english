@@ -4,5 +4,4 @@ pyaudio
 wave
 pyttsx3
 googletrans
-tempfile
 gTTS
